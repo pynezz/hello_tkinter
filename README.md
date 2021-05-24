@@ -9,9 +9,7 @@
 
 ### Exploration of Tkinter Python GUI library 
 
-#### Description
-
-##### app.py
+#### hello-tkinter.py
  - GUI, add filepaths to a list, start the apps with one click. Saves a text file with the paths on close, reads from the file on open
 
 ##### Tutorials watched
@@ -19,3 +17,15 @@
 
 ##### Docs 
  - [python.org - tkinter](https://docs.python.org/3/library/tkinter.html)
+
+
+### Exploration of Qt for Python
+
+##### Docs 
+ - [qt.io docs - Qt(v.6) for Python Quick Start](https://doc.qt.io/qtforpython-6/quickstart.html)
+
+
+### PyQt5
+
+##### Docs
+ - [build-system.fman.io - PyQt5 Tutorial](https://build-system.fman.io/pyqt5-tutorial)
